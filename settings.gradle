@@ -1,0 +1,3 @@
+rootProject.name='Distribution Simple'
+include ':app'
+include ':mylibrary'
